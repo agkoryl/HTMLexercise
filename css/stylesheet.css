@@ -1,0 +1,39 @@
+/**********************
+This is my first CSS sheet
+ ************************/
+
+p {
+    font-size: 13px;
+    color: blue;
+}
+
+a {
+    text-decoration: blueviolet;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+div {
+    width: 100%;
+    background-color: bisque;
+    margin: 5px;
+}
+#navigation li {
+    font-size: 40px;
+    display: inline-block;
+    width: 20%;
+}
+#header {
+    background-color: darkseagreen;
+    color: black;
+    text-align: center;
+    border: brown;
+    border-style: double;
+}
+.type-of-work {
+    font-family: KacstFarsi;
+    font-size: large;
+    color: blueviolet;
+}
